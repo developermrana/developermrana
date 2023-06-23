@@ -15,7 +15,7 @@ Skills:  HTML / CSS/ bootstrap/ tailwind css/ JS/ react/ nodeJS/ expressJS/ mong
 [![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="color: green">](https://www.linkedin.com/in/https://www.linkedin.com/in/masud552//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/M.Rana552)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/masud0586//)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/M.Rana552) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/masud0586/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masud552/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
