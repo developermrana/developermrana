@@ -7,7 +7,17 @@ I am a self-taught passionate web application developer. I can convert a figma d
 
 Skills:  HTML / CSS/ bootstrap/ tailwind css/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJS
 
-- 🌱 I’m currently learning nextJS 
+- 🌱 I’m currently learning nextJS
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrana565&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about web development 
 
