@@ -1,16 +1,16 @@
-![My Image]([https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/347431937_550761493930870_2194950301964668114_n.png?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=qr9VGFXO8wcAX_i-lLV&_nc_ht=scontent.fdac138-2.fna&oh=00_AfBaP20jCLs0ObeGXhoIltcrdJ30rIT7Vxjs00xLlaoTuA](https://media.licdn.com/dms/image/D5616AQFm6OVFP4liPA/profile-displaybackgroundimage-shrink_350_1400/0/1687586619023?e=1712188800&v=beta&t=C43eaE_oXpEXxZaonWJs_-E0jBF1w0kSMKnYVYGdy7o)&oe=64C15249)
+![My Image](https://media.licdn.com/dms/image/D5616AQFm6OVFP4liPA/profile-displaybackgroundimage-shrink_350_1400/0/1687586619023?e=1712188800&v=beta&t=C43eaE_oXpEXxZaonWJs_-E0jBF1w0kSMKnYVYGdy7o)
 
 ### Hi there 👋, Masud Rana
 #### Web Developer
 
-I am a self-taught passionate web application developer. I can convert a figma design to a perfect responsive website template and give them life using ReactJS. I can develop scalable REST APIs using nodeJS, expressJS and mongoDB and connect them with front-end single page application.
+I am a self-taught passionate web application developer. I can convert a Figma design to a perfectly responsive website template and give it life using ReactJS. I can develop scalable REST APIs using nodeJS, expressJS, and mongoDB and connect them with front-end single-page applications.
 
 
-Skills:  HTML / CSS/ bootstrap/ tailwind css/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJS
+Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJs
 
 - 🌱 I’m currently learning nextJS
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on gitHub 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development
 
 [![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
