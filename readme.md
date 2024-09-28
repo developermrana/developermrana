@@ -8,12 +8,17 @@ I am a Full Stack Web Application Developer from <img width="15px" src="./bangla
  <a href="https://www.linkedin.com/in/developermrana"><img src="./image/linkdin.svg" alt="Linkedin"/> </a>
  <a href="https://www.instagram.com/developermrana"><img src="./image/ins.svg" alt="Instagram"/> </a>
  <a href="mailto:rana552m@gmail.com"><img src="./image/gmail.svg" alt="Gmail"/> </a>
- 
 
-Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJS
+
+  * ❤️ I enjoy programming and sharing knowledge.
+  * 👨‍💻 Most used line of code `console.log("hello world")`
+  * 📖 I’m currently learning many things, I believe that everyday is a learning opportunity.
+  * 🔎 I’m currently open for work and employment opportunities (remote and relocation)
+  * 😁  Fun fact: I love to cook, I love to travel on motorcycle.
+  * 
+## Skills
 
 - 🌱 I’m currently learning nextJS
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development
 
