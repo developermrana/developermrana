@@ -1,6 +1,6 @@
 ![My Image](https://media.licdn.com/dms/image/v2/D5616AQFm6OVFP4liPA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1687586619023?e=1732752000&v=beta&t=wPtDU72q7WuayjK0QmFD6IUCb7YNie93di36lEk03TM)
 <div>
- Hello <img height="30px" src="./image/hello.gif" alt="hloImage"/>  I'm Masud Rana 
+ Hello <img height="30px" src="./image/hello.gif" alt="hloImage"/>  <h1>I'm Masud Rana </h1>
 </div>
 
 I am a self-taught passionate web application developer. I can convert a Figma design to a perfectly responsive website template and give it life using ReactJS. I can develop scalable REST APIs using nodeJS, expressJS, and mongoDB and connect them with front-end single-page applications.
