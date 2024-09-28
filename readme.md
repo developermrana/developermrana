@@ -13,10 +13,10 @@ Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mong
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development
 
-[![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/M.Rana552) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/masud0586/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masud552/) 
+[Facebook](https://www.facebook.com/developermrana) [Linkedin](https://www.linkedin.com/in/developermrana/) [Instagram](https://www.instagram.com/developermrana/)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
