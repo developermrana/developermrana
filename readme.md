@@ -10,22 +10,11 @@ I am a Full Stack Web Application Developer from <img width="15px" src="./bangla
  <a href="mailto:rana552m@gmail.com"><img src="./image/gmail.svg" alt="Gmail"/> </a>
 
 
-  * ❤️ I enjoy programming and sharing knowledge.
+  * ❤️ I enjoy programming.
   * 👨‍💻 Most used line of code `console.log("hello world")`
   * 📖 I’m currently learning many things, I believe that everyday is a learning opportunity.
   * 🔎 I’m currently open for work and employment opportunities (remote and relocation)
   * 😁  Fun fact: I love to cook, I love to travel on motorcycle.
-  * 
+    
 ## Skills
-
-- 🌱 I’m currently learning nextJS
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development
-
-
-
-[Facebook](https://www.facebook.com/developermrana) || [Linkedin](https://www.linkedin.com/in/developermrana/) || [Instagram](https://www.instagram.com/developermrana/)
-
-
-
-
+![HTML](./image/html.svg)
