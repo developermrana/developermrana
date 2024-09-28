@@ -20,8 +20,7 @@ I am a Full Stack Web Application Developer from <img width="15px" src="./bangla
 <img src="./image/html.svg" alt="HTML" width="120" height="35"/><img src="./image/css.svg" alt="CSS" width="120" height="35"/><img src="./image/bootstrap.svg" alt="Bootstrap" width="120" height="35"/><img src="./image/tailwind.svg" alt="tailwind CSS" width="120" height="35"/><img src="./image/js.svg" alt="javascript" width="120" height="35"/><img src="./image/vue.svg" alt="vueJS" width="120" height="35"/><img src="./image/react.svg" alt="reactJS" width="120" height="35"/><img src="./image/node.svg" alt="nodeJS" width="120" height="35"/><img src="./image/express.svg" alt="expressJS" width="120" height="35"/><img src="./image/mongodb.svg" alt="mongoDB" width="120" height="35"/><img src="./image/nextjs.svg" alt="nextJS" width="120" height="35"/><img src="./image/php.svg" alt="PHP" width="120" height="35"/>
 <img src="./image/laravel.svg" alt="Laravel" width="120" height="35"/>
 <img src="./image/my sql.svg" alt="mySQL" width="120" height="35"/>
-<img src="" alt="" width="120" height="35"/>
-<img src="" alt="" width="120" height="35"/>
-<img src="" alt="" width="120" height="35"/>
-<img src="" alt="" width="120" height="35"/>
+<img src="./image/my git.svg" alt="Git" width="120" height="35"/>
+<img src="./image/my vs.svg" alt="VS Code" width="120" height="35"/>
+
 
