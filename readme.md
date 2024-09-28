@@ -17,9 +17,7 @@ I am a Full Stack Web Application Developer from <img width="15px" src="./bangla
   * 😁  Fun fact: I love to cook, I love to travel on motorcycle.
     
 ## Skills
-<img src="./image/html.svg" alt="HTML" width="120" height="35"/> 
-<img src="./image/css.svg" alt="CSS" width="120" height="35"/> 
-<img src="./image/bootstrap.svg" alt="Bootstrap" width="120" height="35"/> 
+<img src="./image/html.svg" alt="HTML" width="120" height="35"/><img src="./image/css.svg" alt="CSS" width="120" height="35"/><img src="./image/bootstrap.svg" alt="Bootstrap" width="120" height="35"/> 
 <img src="./image/tailwind.svg" alt="tailwind CSS" width="120" height="35"/>
 <img src="./image/js.svg" alt="javascript" width="120" height="35"/> 
 <img src="" alt="" width="120" height="35"/> 
