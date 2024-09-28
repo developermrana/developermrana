@@ -7,7 +7,7 @@ I am a Full Stack Web Application Developer from <img width="15px" src="./bangla
  <a href="https://www.facebook.com/developermrana"><img src="./image/facefook.svg" alt="Facebook"/> </a>
  <a href="https://www.linkedin.com/in/developermrana"><img src="./image/linkdin.svg" alt="Linkedin"/> </a>
  <a href="https://www.instagram.com/developermrana"><img src="./image/ins.svg" alt="Instagram"/> </a>
- <a href="rana552m@gmail.com"><img src="./image/gmail.svg" alt="Gmail"/> </a>
+ <a href="mailto:rana552m@gmail.com"><img src="./image/gmail.svg" alt="Gmail"/> </a>
  
 
 Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJS
