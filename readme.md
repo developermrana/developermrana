@@ -6,25 +6,17 @@
 I am a self-taught passionate web application developer. I can convert a Figma design to a perfectly responsive website template and give it life using ReactJS. I can develop scalable REST APIs using nodeJS, expressJS, and mongoDB and connect them with front-end single-page applications.
 
 
-Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJs
+Skills:  HTML / CSS/ bootstrap/ tailwind CSS/ JS/ react/ nodeJS/ expressJS/ mongoDB/ nextJS
 
 - 🌱 I’m currently learning nextJS
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development
 
-![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[Facebook](https://www.facebook.com/developermrana) [Linkedin](https://www.linkedin.com/in/developermrana/) [Instagram](https://www.instagram.com/developermrana/)
+[Facebook](https://www.facebook.com/developermrana) || [Linkedin](https://www.linkedin.com/in/developermrana/) || [Instagram](https://www.instagram.com/developermrana/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrana565&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrana565&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=mrana565&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
